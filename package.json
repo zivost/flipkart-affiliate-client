@@ -1,0 +1,33 @@
+{
+  "name": "flipkart-affiliate-client",
+  "version": "1.0.0",
+  "description": "Node.js client for flipkart affiliates API",
+  "main": "./lib/index.js",
+  "directories": {
+    "lib": "./lib/"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nigharsh/flipkart-affiliate-client.git"
+  },
+  "keywords": [
+    "flipkart",
+    "affiliates",
+    "api",
+    "client"
+  ],
+  "author": "Harsh Nigam <nigharsh@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nigharsh/flipkart-affiliate-client/issues"
+  },
+  "homepage": "https://github.com/nigharsh/flipkart-affiliate-client#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5",
+    "request": "^2.69.0"
+  }
+}
