@@ -1,5 +1,5 @@
 # flipkart-affiliate-client
-[![NPM version](https://badge.fury.io/js/flipkart-affiliate-client.svg)](https://www.npmjs.com/package/flipkart-affiliate-client) [![Build Status](https://travis-ci.org/nigharsh/flipkart-affiliate-client.svg?branch=master)](https://travis-ci.org/nigharsh/flipkart-affiliate-client) [![Baikal](https://baikal.io/nigharsh/flipkart-affiliate-client)](https://baikal.io/nigharsh/flipkart-affiliate-client)
+[![NPM version](https://badge.fury.io/js/flipkart-affiliate-client.svg)](https://www.npmjs.com/package/flipkart-affiliate-client) [![Build Status](https://travis-ci.org/nigharsh/flipkart-affiliate-client.svg?branch=master)](https://travis-ci.org/nigharsh/flipkart-affiliate-client) [![Baikal](https://baikal.io/badges/nigharsh/flipkart-affiliate-client)](https://baikal.io/nigharsh/flipkart-affiliate-client)
 
 [![NPM](https://nodei.co/npm/flipkart-affiliate-client.png?mini=true)](https://nodei.co/npm/flipkart-affiliate-client/)
 
